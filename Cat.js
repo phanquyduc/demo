@@ -1,3 +1,3 @@
-function Cata(){
+function Cat(){
     
 }
