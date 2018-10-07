@@ -1,3 +1,3 @@
-function Merge(){
-    
+function merge(){
+
 }    
